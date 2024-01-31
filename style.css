@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+    background-color: blanchedalmond;
+}
+header {
+    background-color: red;
+    padding: 10px;
+    text-align: center;
+    font-style: italic;
+}
+nav {
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+a.link-header {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+a.link-nav {
+    color: #333;
+    text-decoration: none;
+    font-style: italic;
+    margin-right: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+main {
+    padding: 20px;
+}
+h1 {
+    color: turquoise;
+    font-size: 36px;
+}
+footer {
+    background-color: darkcyan;
+    padding: 20px;
+    text-align: center;
+}
+h3 {
+font-size: 25px;
+}
+
+
